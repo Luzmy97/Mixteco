@@ -21,7 +21,7 @@ export const ORTHOGRAPHY = [
 "v",
 "x",
 "ɨ",
-"'",
+"'"
 ]
 
 if (CONFIG.normalization) {
