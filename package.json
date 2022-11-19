@@ -1,7 +1,7 @@
 {
-    "name": "Ayuujk-wordle",
+    "name": "Mixteco-wordle",
     "version": "0.1.0",
-    "homepage": "https://lbalbuenag.github.io/Ayuujk-Wordle",
+    "homepage": "https://github.com/Luzmy97/Mixteco.git.io/Mixteco-wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",

@@ -1,0 +1,104 @@
+{
+    "about": "Tu'u cha'a juego",
+    "gameName": "No Wordle - {{language}}",
+    "enterKey": "Saya'a",
+    "deleteKey": "Sandoyo",
+    "notEnoughLetters": "ña kua'a letra iyo",
+    "wordNotFound": "ñinañi'i tu'u",
+    "solution": "tu'uya ikuu {{solution}}",
+    "gameCopied": "Juego copiado al portapapeles",
+    "howToPlay": "ku'va kusɨkɨyo",
+    "instructions": "Nakoto tu'u {{tries}} intentos. Después de cada intento, el color de las letras cambiará para mostrar qué tan cerca estás de acertar la palabra.",
+    "pickYourLanguage": "Elige un idioma",
+    "correctSpotInstructions": "La letra T se encuentra en la palabra y está en la posición correcta.",
+    "wrongSpotInstructions": "La letra N se encuentra en la palabra pero en la posición incorrecta.",
+    "notInWordInstructions": "La letra CH no se encuentra en la palabra.",
+    "guessDistribution": "Distribución de aciertos",
+    "statistics": "Estadísticas",
+    "totalTries": "Jugadas",
+    "successRate": "Victorias",
+    "currentStreak": "Racha actual",
+    "bestStreak": "Mejor racha",
+    "newWordCountdown": "Nueva palabra en",
+    "share": "Compartir",
+    "winMessages": [
+        "¡Gran trabajo!",
+        "Increíble",
+        "¡Bien hecho!"
+    ],
+    "firstExampleWord": [{
+            "letter": "t",
+            "highlight": true
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        },
+        {
+            "letter": "a",
+            "highlight": false
+        },
+        {
+            "letter": "'",
+            "highlight": false
+        },
+        {
+            "letter": "a",
+            "highlight": false
+        }
+
+    ],
+    "secondExampleWord": [{
+            "letter": "s",
+            "highlight": false
+        },
+        {
+            "letter": "ɨ",
+            "highlight": false
+        },
+        {
+            "letter": "n",
+            "highlight": true
+        },
+        {
+            "letter": "k",
+            "highlight": false
+        },
+        {
+            "letter": "a",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "v",
+            "highlight": false
+        },
+        {
+            "letter": "a",
+            "highlight": false
+        },
+        {
+            "letter": "'",
+            "highlight": false
+        },
+        {
+            "letter": "ch",
+            "highlight": true
+        },
+        {
+            "letter": "i",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a {{language}} por <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Echa un vistazo al <1>código original</1> de <3>Hannah Park</3> o echa un vistazo al <5>fork de Aidan Pine</5> y personalízalo para otro idioma. ",
+    "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "zh": "中文",
+        "mxt":"Mixteco"
+    }
+}
