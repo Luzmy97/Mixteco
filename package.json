@@ -1,7 +1,8 @@
 {
     "name": "Mixteco-wordle",
     "version": "0.1.0",
-    "homepage": "https://github.com/Luzmy97/Mixteco.git.io/Mixteco-wordle",
+   
+    "homepage": "https://luzmy97.github.io/Mixteco/Mixteco-1-wordle", 
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
