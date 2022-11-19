@@ -1,13 +1,13 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-"cha'yu",
+"chi'yo",
 "tya'a",
 "sɨnka",
 "rakua",
 "nonka",
 "va'chi",
-"tyakɨ"
+"ñakua"
 
 ]
 
