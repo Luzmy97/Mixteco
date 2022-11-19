@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mixteco/Mixteco-1-wordle/static/css/main.18105e71.css",
-    "main.js": "/Mixteco/Mixteco-1-wordle/static/js/main.2106f8ab.js",
-    "static/js/787.a6485f14.chunk.js": "/Mixteco/Mixteco-1-wordle/static/js/787.a6485f14.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Mixteco/Mixteco-1-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Mixteco/Mixteco-1-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Mixteco/Mixteco-1-wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Mixteco/Mixteco-1-wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Mixteco/Mixteco-1-wordle/index.html",
-    "static/media/getFetch.cjs": "/Mixteco/Mixteco-1-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.18105e71.css.map": "/Mixteco/Mixteco-1-wordle/static/css/main.18105e71.css.map",
-    "main.2106f8ab.js.map": "/Mixteco/Mixteco-1-wordle/static/js/main.2106f8ab.js.map",
-    "787.a6485f14.chunk.js.map": "/Mixteco/Mixteco-1-wordle/static/js/787.a6485f14.chunk.js.map"
+    "main.css": "/Mixteco/Mixteco-1/Mixteco-wordle/static/css/main.a24690d4.css",
+    "main.js": "/Mixteco/Mixteco-1/Mixteco-wordle/static/js/main.87188c27.js",
+    "static/js/787.a6485f14.chunk.js": "/Mixteco/Mixteco-1/Mixteco-wordle/static/js/787.a6485f14.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Mixteco/Mixteco-1/Mixteco-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Mixteco/Mixteco-1/Mixteco-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Mixteco/Mixteco-1/Mixteco-wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Mixteco/Mixteco-1/Mixteco-wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Mixteco/Mixteco-1/Mixteco-wordle/index.html",
+    "static/media/getFetch.cjs": "/Mixteco/Mixteco-1/Mixteco-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.a24690d4.css.map": "/Mixteco/Mixteco-1/Mixteco-wordle/static/css/main.a24690d4.css.map",
+    "main.87188c27.js.map": "/Mixteco/Mixteco-1/Mixteco-wordle/static/js/main.87188c27.js.map",
+    "787.a6485f14.chunk.js.map": "/Mixteco/Mixteco-1/Mixteco-wordle/static/js/787.a6485f14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18105e71.css",
-    "static/js/main.2106f8ab.js"
+    "static/css/main.a24690d4.css",
+    "static/js/main.87188c27.js"
   ]
 }
