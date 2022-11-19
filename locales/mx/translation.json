@@ -70,11 +70,11 @@
         }
     ],
     "thirdExampleWord": [{
-            "letter": "v",
+            "letter": "ch",
             "highlight": false
         },
         {
-            "letter": "a",
+            "letter": "i",
             "highlight": false
         },
         {
@@ -82,11 +82,11 @@
             "highlight": false
         },
         {
-            "letter": "ch",
+            "letter": "y",
             "highlight": true
         },
         {
-            "letter": "i",
+            "letter": "o",
             "highlight": false
         }
     ],
